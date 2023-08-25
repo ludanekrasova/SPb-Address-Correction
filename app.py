@@ -1,8 +1,6 @@
 #!flask/bin/python
 # -*- coding: utf-8 -*-
 from flask import Flask, render_template, request, session, render_template_string
-import pandas as pd
-import os
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = "super secret key"
