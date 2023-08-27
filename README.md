@@ -29,4 +29,5 @@
    
 2. Откройте приложение веб-браузере по адресу http://localhost:5000/
 
+Для докера: https://hub.docker.com/repository/docker/lucyxitem/myapp1
   
