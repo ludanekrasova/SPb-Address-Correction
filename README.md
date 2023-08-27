@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий:
    
 
-   git clone <URL_репозитория>
+   git clone <URL_репозитория>](https://github.com/ludanekrasova/SPb-Address-Correction)
    
 2. Перейдите в папку проекта:
    
